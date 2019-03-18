@@ -36,9 +36,5 @@ class Song
       names += 1
     end
   end
-    
-    
-  end
-  
   
 end
