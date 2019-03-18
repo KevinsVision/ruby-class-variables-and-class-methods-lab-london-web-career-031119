@@ -30,7 +30,15 @@ class Song
     @@artists.uniq
   end
   
-  
+  def self.genre_count
+    genre_count = Hash.new(0)
+    @@genre.each do |names|
+      name += 1
+    end
+  end
+    
+    
+  end
   
   
 end
